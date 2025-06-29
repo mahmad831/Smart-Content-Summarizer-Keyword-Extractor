@@ -1,0 +1,5 @@
+{
+  "name": "Smart Content Summarizer & Keyword Extractor",
+  "description": "An intelligent tool that uses Gemini to provide concise summaries, identify key topics, and extract important keywords from large blocks of text.",
+  "requestFramePermissions": []
+}
